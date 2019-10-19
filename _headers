@@ -1,0 +1,5 @@
+/Various%20Artists%20-%202009%20-%20netBloc%20Vol%2024_%20tiuqottigeloot%20%5BMP3-V2%5D/*.mp3
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET,HEAD,OPTIONS
+  Access-Control-Allow-Headers: Content-Type, User-Agent, If-Modified-Since, Cache-Control, Range
+  Access-Control-Expose-Headers: Content-Length, Content-Range
