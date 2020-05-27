@@ -1,10 +1,4 @@
-/Various%20Artists%20-%202009%20-%20netBloc%20Vol%2024_%20tiuqottigeloot%20%5BMP3-V2%5D/*.mp3
-  Access-Control-Allow-Origin: *
-  Access-Control-Allow-Methods: GET,HEAD,OPTIONS
-  Access-Control-Allow-Headers: Content-Type, User-Agent, If-Modified-Since, Cache-Control, Range
-  Access-Control-Expose-Headers: Content-Length, Content-Range
-
-/Various%20Artists%20-%202008%20-%20netBloc%20Vol%2013%20-%20Color%20in%20a%20World%20of%20Monochrome%20%5BAAC-40%5D/*.m4a
+/*
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Methods: GET,HEAD,OPTIONS
   Access-Control-Allow-Headers: Content-Type, User-Agent, If-Modified-Since, Cache-Control, Range
