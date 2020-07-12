@@ -1,2 +1,25 @@
-.idea
-**/*.iml
+# dependencies
+/node_modules
+
+# compiled output
+/out-tsc
+lib/**/*.js
+lib/**/*.map
+lib/**/*.d.ts
+
+test/**/*.js
+test/**/*.js.map
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.iml
+
+# System Files
+.DS_Store
+Thumbs.db
